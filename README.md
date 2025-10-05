@@ -85,7 +85,7 @@ Our project was brought to life by the incredible open data from NASA’s Terra 
 - **Beatriz Zambeti**  
 - **Clayton Roza**  
 - **Fernando Fernandes**  
-- **Lucas F. de Oliveira**
+- **Lucas Borges da Silva**
 
 ---
 
