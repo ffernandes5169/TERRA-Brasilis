@@ -1,0 +1,25 @@
+Value,MODLAND,VI Usefulness,Aerosol Quantity,Adjacent cloud detected,Atmosphere BRDF Correction,Mixed Clouds,Land/Water Mask,Possible snow/ice,Possible shadow
+2062,"Pixel produced, but most probably cloudy",Decreasing quality,Climatology,No,No,No,Land (Nothing else but land),No,No
+2066,"Pixel produced, but most probably cloudy",Decreasing quality,Climatology,No,No,No,Land (Nothing else but land),No,No
+2116,VI produced with good quality,Lower quality,Low,No,No,No,Land (Nothing else but land),No,No
+2120,VI produced with good quality,Decreasing quality,Low,No,No,No,Land (Nothing else but land),No,No
+2185,"VI produced, but check other QA",Decreasing quality,Average,No,No,No,Land (Nothing else but land),No,No
+2186,"Pixel produced, but most probably cloudy",Decreasing quality,Average,No,No,No,Land (Nothing else but land),No,No
+2189,"VI produced, but check other QA",Decreasing quality,Average,No,No,No,Land (Nothing else but land),No,No
+2376,VI produced with good quality,Decreasing quality,Low,Yes,No,No,Land (Nothing else but land),No,No
+2380,VI produced with good quality,Decreasing quality,Low,Yes,No,No,Land (Nothing else but land),No,No
+2445,"VI produced, but check other QA",Decreasing quality,Average,Yes,No,No,Land (Nothing else but land),No,No
+2449,"VI produced, but check other QA",Decreasing quality,Average,Yes,No,No,Land (Nothing else but land),No,No
+2517,"VI produced, but check other QA",Decreasing quality,High,Yes,No,No,Land (Nothing else but land),No,No
+2521,"VI produced, but check other QA",Decreasing quality,High,Yes,No,No,Land (Nothing else but land),No,No
+3098,"Pixel produced, but most probably cloudy",Decreasing quality,Climatology,No,No,Yes,Land (Nothing else but land),No,No
+3102,"Pixel produced, but most probably cloudy",Decreasing quality,Climatology,No,No,Yes,Land (Nothing else but land),No,No
+3222,"Pixel produced, but most probably cloudy",Decreasing quality,Average,No,No,Yes,Land (Nothing else but land),No,No
+3554,"Pixel produced, but most probably cloudy",Decreasing quality,High,Yes,No,Yes,Land (Nothing else but land),No,No
+3558,"Pixel produced, but most probably cloudy",Decreasing quality,High,Yes,No,Yes,Land (Nothing else but land),No,No
+35152,VI produced with good quality,Decreasing quality,Low,Yes,No,No,Land (Nothing else but land),No,Yes
+35221,"VI produced, but check other QA",Decreasing quality,Average,Yes,No,No,Land (Nothing else but land),No,Yes
+35225,"VI produced, but check other QA",Decreasing quality,Average,Yes,No,No,Land (Nothing else but land),No,Yes
+36190,"Pixel produced, but most probably cloudy",Decreasing quality,Low,Yes,No,Yes,Land (Nothing else but land),No,Yes
+36330,"Pixel produced, but most probably cloudy",Decreasing quality,High,Yes,No,Yes,Land (Nothing else but land),No,Yes
+36334,"Pixel produced, but most probably cloudy",Decreasing quality,High,Yes,No,Yes,Land (Nothing else but land),No,Yes

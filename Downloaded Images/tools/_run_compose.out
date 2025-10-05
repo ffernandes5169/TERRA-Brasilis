@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "C:\hackathon\out\tools\compose_storyboard.py", line 48, in <module>
+    out_dir=sys.argv[1]; manifest=sys.argv[2]; main(out_dir,manifest)
+                                               ~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\hackathon\out\tools\compose_storyboard.py", line 33, in main
+    with open(manifest_path,'r',encoding='utf-8') as f: m=json.load(f)
+                                                          ~~~~~~~~~^^^
+  File "C:\Users\LowCost\AppData\Local\Programs\Python\Python313\Lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+                 ~~~~~~~^^
+  File "<frozen codecs>", line 325, in decode
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xe9 in position 85: invalid continuation byte

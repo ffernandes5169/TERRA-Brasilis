@@ -1,0 +1,3 @@
+C:\hackathon\out\tools\ndvi_colorize.py:17: DeprecationWarning: 'mode' parameter is deprecated and will be removed in Pillow 13 (2026-10-15)
+  im = Image.fromarray(rgb,'RGB'); im.putalpha(Image.fromarray(alpha,'L'))
+PNG NDVI gerados: 94

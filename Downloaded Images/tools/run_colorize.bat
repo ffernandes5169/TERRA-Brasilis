@@ -1,0 +1,1 @@
+cd /d "C:\hackathon\out\tools" && python -m venv .venv && ".venv\Scripts\python.exe" -m pip install -U pip && ".venv\Scripts\python.exe" -m pip install -r requirements.txt && ".venv\Scripts\python.exe" "C:\hackathon\out\tools\ndvi_colorize.py" "C:\hackathon\out\appeears\1d91ae19-6057-4ae8-af18-1fcefa9a9bbc"
