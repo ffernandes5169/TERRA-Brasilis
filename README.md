@@ -1,4 +1,4 @@
-# 🌎 Project TERRA Brasilis
+# 🌎 Project TERRA Brasiles
 *A nature-based solution for land regeneration, powered by NASA's Terra satellite data.*
 
 ---
