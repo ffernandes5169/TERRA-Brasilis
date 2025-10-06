@@ -3,6 +3,11 @@
 
 ---
 
+![Animated preview of our story — "From Waste to Forest"](./media/terra_brasilis_preview.gif)
+> 🎞️ *Animated preview from our final submission video — inspired by the real orange peel experiment in Costa Rica.*
+
+---
+
 ## 🚀 Our Vision
 What if we could turn millions of tons of agricultural waste into thriving new forests?  
 That’s the question that drove our project. **TERRA Brasilis** is our answer: a scalable, data-driven framework that does just that.  
@@ -14,10 +19,32 @@ It’s a powerful synergy between circular economy, community empowerment, and t
 
 ---
 
-## 🎬 Project Demonstration (Full 2.5-min Video)
-Our final product is a 2.5-minute animated story that explains our vision, the science behind it, and the transformative potential for communities and the environment.
+## 🎬 Project Demonstration — *"From Waste to Forest. From Forest to Future."*
 
-👉 [Link to your 2.5-minute video hosted on YouTube/Vimeo]
+Our submission for the **NASA Space Apps Challenge 2025** includes two complementary videos that tell our story from different perspectives:
+
+### 🎞️ Official Short Pitch (30 seconds)
+The quick introduction used for NASA’s submission form — a dynamic and engaging teaser of our project.  
+👉 [Watch the 30-second presentation video (YouTube)](https://youtu.be/SEU_LINK_CURTO_AQUI)
+
+---
+
+### 🌍 Full Animated Story (2.5 minutes)
+Our main deliverable: a **2.5-minute animated short film** that tells the inspiring story of how agricultural waste — like orange peels and coffee pulp — can help regenerate degraded lands in Brazil, with NASA’s Terra satellite data guiding the way.
+
+🎥 **Watch the full animation here:**  
+👉 [🔗 *From Waste to Forest — Official Project Video (YouTube)*](https://youtu.be/SEU_LINK_COMPLETO_AQUI)
+
+---
+
+### 📖 About the Video
+The animation showcases:
+- The **real case** of 12,000 tons of orange peels restoring a forest in Costa Rica 🌳  
+- How this idea can **scale to Brazil** — one of the world’s largest agricultural producers ☕🍊  
+- How NASA’s **Terra/MODIS** data (NDVI time-series) helps visualize the “greening” of degraded lands 🌍  
+- And finally, how communities and technology can unite for a **new cycle of life from waste** ♻️  
+
+The story is narrated by our original character — the **Orange Astronaut** 🧑‍🚀🍊 — a symbol of curiosity, science, and hope.
 
 ---
 
@@ -66,7 +93,7 @@ They tell the story of our ambitious attempt and the valuable lessons we learned
 
 ### Phase 2: Visual Storytelling
 - **NASA Worldview & Earth Observatory:** Our go-to platforms for sourcing beautiful “True Color” and NDVI imagery from the MODIS instrument on the Terra satellite.  
-- **Animation:** We brought our story to life using *[Mention your video software, e.g., Adobe After Effects, Blender, CapCut]*.  
+- **Animation:** We brought our story to life using *[mention your video software, e.g., Adobe After Effects, Blender, CapCut]*.  
 - **Character:** Our narrator is a friendly **“Orange Astronaut”**, an original concept created with the help of generative AI — a fun nod to our project’s origin story.
 
 ---
@@ -112,9 +139,9 @@ Example: *YouTube* — “How 12,000 tonnes of orange peel revived a Costa Rican
 ---
 
 ## 🔗 References
-- Estratégia Nacional de Bioeconomia: https://www.gov.br/mma/pt-br/composicao/sbc/dpeb/estrategia-nacional-de-bioeconomia
-- 10 Municípios Brasileiros Maiores Produtores de Larajna: https://agronegocioaz.com.br/10-municipios-brasileiros-maiores-produtores-de-laranja/
-- INPE Catálogo de Imagens: https://www.dgi.inpe.br/catalogo/explore
-- Worldview - Explore Your Dynamic Planet: https://worldview.earthdata.nasa.gov
-- Vegetation Index: https://neo.gsfc.nasa.gov/view.php?datasetId=MOD_NDVI_M&year=2017
-- Earth Pbservatory: https://earthobservatory.nasa.gov/
+- Estratégia Nacional de Bioeconomia: https://www.gov.br/mma/pt-br/composicao/sbc/dpeb/estrategia-nacional-de-bioeconomia  
+- 10 Municípios Brasileiros Maiores Produtores de Laranja: https://agronegocioaz.com.br/10-municipios-brasileiros-maiores-produtores-de-laranja/  
+- INPE Catálogo de Imagens: https://www.dgi.inpe.br/catalogo/explore  
+- Worldview - Explore Your Dynamic Planet: https://worldview.earthdata.nasa.gov  
+- Vegetation Index: https://neo.gsfc.nasa.gov/view.php?datasetId=MOD_NDVI_M&year=2017  
+- Earth Observatory: https://earthobservatory.nasa.gov  
